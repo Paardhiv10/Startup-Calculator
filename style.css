@@ -1,0 +1,11 @@
+body{
+    background-color: bisque;
+}
+.txt-custom{
+    font-family: 'Anton', sans-serif;
+    font-size: 300%!important;
+}
+.p-anim:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
